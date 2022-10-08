@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "153D998C-8121-4ED6-BD85-56B72267C8D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "791CB10A-6427-4EF5-8A71-4F7BB6C18A84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobileProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "logoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "791CB10A-6427-4EF5-8A71-4F7BB6C18A84 - 6658763066e348ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "791CB10A-6427-4EF5-8A71-4F7BB6C18A84 - ee7839819ba59cd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "791CB10A-6427-4EF5-8A71-4F7BB6C18A84 - 96642ea06e37d7e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "791CB10A-6427-4EF5-8A71-4F7BB6C18A84 - 41e7440a9d4379f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "791CB10A-6427-4EF5-8A71-4F7BB6C18A84 - d04e5bdf93231734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; mobileProject.logoViewController"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "791CB10A-6427-4EF5-8A71-4F7BB6C18A84 - d98b193ad08f758e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;mobileProject.logoViewController&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1C64828-0612-4571-85D6-6705ADBC750F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobileProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "logoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A1C64828-0612-4571-85D6-6705ADBC750F - 6658763066e348ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A1C64828-0612-4571-85D6-6705ADBC750F - ee7839819ba59cd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "A1C64828-0612-4571-85D6-6705ADBC750F - 96642ea06e37d7e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A1C64828-0612-4571-85D6-6705ADBC750F - 41e7440a9d4379f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.logoImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A1C64828-0612-4571-85D6-6705ADBC750F - d04e5bdf93231734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; mobileProject.logoViewController"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "A1C64828-0612-4571-85D6-6705ADBC750F - d98b193ad08f758e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobileProject.logoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;mobileProject.logoViewController&gt;"
+                  moduleName = "mobileProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilkayture/Desktop/mobileProject/mobileProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E4000BE-D4B6-40DC-B1C2-B7FDDCC33715"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobileProject/model/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "APICaller"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
